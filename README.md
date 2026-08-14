@@ -1,28 +1,17 @@
 # `leetcode` ⋆｡°✩
 
 ```text
-                         ·
-                    ·         ·
-               ·          ✦          ·
-                    ·         ·
-                         ·
-
               . . . . . . . . . . .
-           .                       .
-        .        LOCKED IN.         .
-           .                       .
+              .                    .
+          .         LOCKED IN.         .
+              .                    .
               . . . . . . . . . . .
-
-                    ↓
-             solving one at a time
+                       ↓
+              solving one at a time
 ```
-
 > **just me, my code & an unreasonable amount of bugs.**
-
 ---
-
 ### `✦ what's going on here`
-
 A little corner where I dump my **LeetCode grind**.
 
 Problems solved.
@@ -43,39 +32,24 @@ Brain cells sacrificed.
           ·               ·
        solve . . . . . . repeat
 ```
-
 ---
-
 ### `✧ the side quests`
-
 ```text
-        ·
-          ·       arrays
-    ✦           strings
-          ·       hashing
-              ·
-        binary search
-              ✦
-        linked list
-          ·
-        stack / queue
-              ·
-          trees
-        ·       graphs
-              ✦
-       recursion
-          ·
-      backtracking
-            ·
-     dynamic programming
+✦ arrays
+✦ strings
+✦ hashing
+✦ binary search
+✦ linked list
+✦ stack / queue
+✦ trees
+✦ graphs
+✦ recursion
+✦ backtracking
+✦ dynamic programming
 ```
-
 > **the list keeps growing. so does the skill issue.**
-
 ---
-
 ### `⋆ current status`
-
 ```text
                  ✦
               ·     ·
@@ -88,17 +62,14 @@ Brain cells sacrificed.
                  ✦
 
           █████████░░░░░░
-               locked in
+             locked in
 ```
-
 `consistency > motivation`
 
 `understanding > memorizing`
 
 `progress > perfection`
-
 ---
-
 ### `· · · the mission · · ·`
 
 ```text
@@ -115,20 +86,7 @@ Get better at **thinking**, not just coding.
 
 One problem today.
 One less problem tomorrow.
-
 ---
-
-```text
-        ·       ✦       ·
-     ·      ·       ·      ·
-   ✦          keep going        ✦
-     ·      ·       ·      ·
-        ·       ✦       ·
-
-             no rush.
-             just grind.
-```
-
 <p align="center">
 
 `made by Robin Goyal`
