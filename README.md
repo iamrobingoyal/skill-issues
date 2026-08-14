@@ -1,97 +1,140 @@
-# ⟡ LeetCode
-
-> `code • think • solve • repeat`
+# `leetcode` ⋆｡°✩
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│              🖤 DSA JOURNEY                  │
-│                                              │
-│     solving problems, one bug at a time.     │
-│                                              │
-╰──────────────────────────────────────────────╯
+                         ·
+                    ·         ·
+               ·          ✦          ·
+                    ·         ·
+                         ·
+
+              . . . . . . . . . . .
+           .                       .
+        .        LOCKED IN.         .
+           .                       .
+              . . . . . . . . . . .
+
+                    ↓
+             solving one at a time
 ```
 
-### `// about`
-
-A collection of my **LeetCode solutions** while grinding through
-**Data Structures & Algorithms**.
-
-No shortcuts.
-No memorizing.
-Just **solve → fail → understand → improve.**
+> **just me, my code & an unreasonable amount of bugs.**
 
 ---
 
-### `// topics`
+### `✦ what's going on here`
+
+A little corner where I dump my **LeetCode grind**.
+
+Problems solved.
+Concepts learned.
+Wrong answers survived.
+Brain cells sacrificed.
 
 ```text
-• Arrays
-• Strings
-• Hashing
-• Two Pointers
-• Sliding Window
-• Binary Search
-• Sorting
-• Linked List
-• Stack & Queue
-• Trees
-• Graphs
-• Recursion
-• Backtracking
-• Dynamic Programming
+       think . . . . . . code
+          ·               ·
+            ·           ·
+              ·       ·
+                ·   ·
+                  ✦
+                ·   ·
+              ·       ·
+            ·           ·
+          ·               ·
+       solve . . . . . . repeat
 ```
 
 ---
 
-### `// mindset`
+### `✧ the side quests`
 
 ```text
-┌─────────────────────────────────┐
-│  consistency > motivation       │
-│  logic > memorization           │
-│  progress > perfection          │
-└─────────────────────────────────┘
+        ·
+          ·       arrays
+    ✦           strings
+          ·       hashing
+              ·
+        binary search
+              ✦
+        linked list
+          ·
+        stack / queue
+              ·
+          trees
+        ·       graphs
+              ✦
+       recursion
+          ·
+      backtracking
+            ·
+     dynamic programming
 ```
 
-> `one problem at a time. one step closer.`
+> **the list keeps growing. so does the skill issue.**
 
 ---
 
-### `// grind`
+### `⋆ current status`
 
 ```text
-        01 ── learn
-        02 ── struggle
-        03 ── solve
-        04 ── repeat
+                 ✦
+              ·     ·
+           ·           ·
+         ·      DSA      ·
+        ·      LOADING     ·
+         ·               ·
+           ·           ·
+              ·     ·
+                 ✦
+
+          █████████░░░░░░
+               locked in
 ```
 
-◦ building problem-solving skills
-◦ getting better at DSA
-◦ preparing for the coding grind
-◦ documenting the journey
+`consistency > motivation`
+
+`understanding > memorizing`
+
+`progress > perfection`
 
 ---
 
-### `// currently`
+### `· · · the mission · · ·`
 
-**DSA mode: `ON` ⚫**
+```text
+             ✦
+          ·     ·
+       ·           ·
+      ·   solve it   ·
+       ·           ·
+          ·     ·
+             ✦
+```
 
-`████████░░░░░░░░░░`  →  **loading...**
+Get better at **thinking**, not just coding.
+
+One problem today.
+One less problem tomorrow.
 
 ---
 
 ```text
-──────────────────────────────────────────────
+        ·       ✦       ·
+     ·      ·       ·      ·
+   ✦          keep going        ✦
+     ·      ·       ·      ·
+        ·       ✦       ·
 
-        built with ☕ + 🖤 + too many bugs
-
-──────────────────────────────────────────────
+             no rush.
+             just grind.
 ```
 
-### `Robin Goyal`
+<p align="center">
 
-`CSE (AI & ML) • Student • Builder`
+`made by Robin Goyal`
 
-[GitHub](https://github.com/iamrobingoyal)
+<br>
+
+<sub>✦ currently somewhere between "easy" and "why is this so hard?" ✦</sub>
+
+</p>
